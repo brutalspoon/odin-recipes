@@ -24,3 +24,11 @@ p {
     font-family: cursive;
     transform: rotate(20deg) scale(4,1);
 }
+
+.abitcrooked {
+    transform: rotate(0.3deg);
+}
+
+.othercrooked {
+    transform: rotate(-0.2deg);
+}
