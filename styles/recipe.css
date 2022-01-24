@@ -26,9 +26,13 @@ p {
 }
 
 .abitcrooked {
-    transform: rotate(0.3deg);
+    transform: rotate(0.9deg);
 }
 
 .othercrooked {
-    transform: rotate(-0.2deg);
+    transform: rotate(-0.7deg);
+}
+
+.flip {
+    transform: scaleX(-1) rotate(180deg);
 }
